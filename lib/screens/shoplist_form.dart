@@ -25,7 +25,6 @@ class _ShopFormPageState extends State<ShopFormPage> {
           backgroundColor: Colors.indigo,
           foregroundColor: Colors.white,
         ),
-        // TODO: Tambahkan drawer yang sudah dibuat di sini
         body: Form(
           key: _formKey,
           child: SingleChildScrollView(
